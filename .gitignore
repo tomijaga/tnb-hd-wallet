@@ -1,0 +1,8 @@
+/node_modules/
+npm-debug.log
+/dist
+/lib
+/esm
+dev.ts
+dev.js
+.replit
