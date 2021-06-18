@@ -67,7 +67,7 @@
     /* Advanced Options */
     "skipLibCheck": true,                           /* Skip type checking of declaration files. */
     "forceConsistentCasingInFileNames": true ,      /* Disallow inconsistently-cased references to the same file. */
-    "outDir": "./lib",
+    "outDir": "./dist/cjs",
     "resolveJsonModule": true,
     "baseUrl": "/types",
     "typeRoots": ["types", "node_modules/@types"]
