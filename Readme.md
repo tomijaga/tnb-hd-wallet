@@ -53,10 +53,10 @@ Clone this repository, install dependecies and start contributing
 
 ## Authors
 
-#### Tomi - [@tomijaga]()
+#### Tomi - [@tomijaga](https://github.com/tomijaga)
 Donate with TNBC - 8de30226230c35bbc1ce4a63c62a7b9c86bf0ce21fc7bc1a984b7884a9f88782
 
-#### Nikhil - [@itsNikhill]()
+#### Nikhil - [@itsNikhill](https://github.com/itsNikhil)
 Donate with TNBC - e9c5acac0806aca6ba2c0ade74d93ec4f9a89d8743fa477c52ce9b7817dcad95
 
 ## Resources
